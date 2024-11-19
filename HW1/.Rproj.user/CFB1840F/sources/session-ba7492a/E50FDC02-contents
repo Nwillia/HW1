@@ -1,0 +1,16 @@
+
+
+
+
+---
+  title: "HW2"
+output:
+  html_document:
+  df_print: paged
+---
+  
+  # Summary
+  # We are going to produce an R package with functions with documentation, error messages, and tests (extra credit). The application is functionality to visualize and process data and estimates on family planning worldwide. Note that we already worked with the estimates in Intermediate R, HW1. Relevant code and functions from that HW are included in this Rmd in the section below, followed by the exercises for this HW.#
+################################## Reference https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/
+ #################### 
+ 
